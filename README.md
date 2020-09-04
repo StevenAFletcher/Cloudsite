@@ -13,8 +13,8 @@ The intent of this web application is to provide a way other can build a website
 -	They will also be able to set up a subscription at a low cost to allow more options and more layers for their website.
 -	The user that creates the website will be able the owner ( admin ) and will be allow to assign least privilege to other users.
 -	Stored Items include 
-1. User accounts
-2. User Name 
-3. User Business Name
-4. Business Address
+       - User accounts
+       - User Name 
+       - User Business Name
+       - Business Address
 -	There are other companies that already do this like WIX, Share Space and Weebly, but I want to provide a cheap solution.
